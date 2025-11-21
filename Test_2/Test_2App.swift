@@ -11,7 +11,7 @@ import SwiftUI
 struct Test_2App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DashboardView()  // 这里改成你自己的 Dashboard 主界面
         }
     }
 }

@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		8FBA4E4A2EB83B6100BD03E0 /* Test_2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test_2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8FBA4E4A2EB83B6100BD03E0 /* Test_2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Test_2.app; path = "/Users/hsuanting/Design-lab/Test_2/build/Debug-iphoneos/Test_2.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				8FBA4E4C2EB83B6100BD03E0 /* Test_2 */,
-				8FBA4E4B2EB83B6100BD03E0 /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		8FBA4E4B2EB83B6100BD03E0 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				8FBA4E4A2EB83B6100BD03E0 /* Test_2.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = 8FBA4E412EB83B6100BD03E0;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 8FBA4E4B2EB83B6100BD03E0 /* Products */;
+			productRefGroup = 8FBA4E412EB83B6100BD03E0;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
